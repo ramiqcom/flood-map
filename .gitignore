@@ -1,3 +1,6 @@
+node_modules
+.next
+
 .venv
 .env
 
@@ -12,3 +15,5 @@
 *.parquet*
 
 private_key.json
+*.tsbuildinfo
+next-env.d.ts
